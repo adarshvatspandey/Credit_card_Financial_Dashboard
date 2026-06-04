@@ -9,6 +9,7 @@ Credit Card Customer Report – Focused on customer demographics, income groups,
 The dashboards enable stakeholders to monitor KPIs, identify high-value customer segments, analyze spending trends, and support data-driven decision-making.
 
 🚀 Key Features
+
 1️⃣ Credit Card Transaction Dashboard
 Revenue Analysis by Card Category
 Quarterly Revenue & Transaction Trends
@@ -23,6 +24,7 @@ Total Revenue
 Interest Earned
 Total Transaction Amount
 Transaction Count
+
 2️⃣ Credit Card Customer Dashboard
 Customer Revenue Analysis
 Customer Satisfaction Score (CSS)
@@ -35,6 +37,7 @@ Revenue by State
 Gender-Based Revenue Analysis
 Weekly Revenue Trends
 Customer Occupation Analysis
+
 📈 Dashboard KPIs
 Transaction Dashboard
 KPI	Description
@@ -55,6 +58,7 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization
 Interactive Slicers & Filters
+
 📂 Data Model
 Fact Tables
 Credit Card Transactions
@@ -67,6 +71,7 @@ Customer Jobs
 States
 Gender
 Age Groups
+
 📊 Insights Generated
 Transaction Analysis
 Identify highest revenue-generating card categories.
@@ -78,6 +83,7 @@ Discover high-value customer segments.
 Analyze income distribution and revenue contribution.
 Evaluate customer satisfaction.
 Study demographic-based revenue patterns.
+
 🎯 Business Use Cases
 Financial Performance Monitoring
 Credit Card Portfolio Analysis
@@ -86,6 +92,7 @@ Revenue Optimization
 Customer Retention Strategy
 Executive Reporting
 Banking & Financial Services Analytics
+
 📷 Dashboard Preview
 Credit Card Transaction Report
 Revenue by Card Category
@@ -97,6 +104,7 @@ Revenue by Customer Demographics
 Customer Satisfaction Analysis
 Income Group Analysis
 Geographic Revenue Distribution
+
 ⭐ Skills Demonstrated
 Data Cleaning & Transformation
 Data Modeling
