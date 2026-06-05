@@ -6,15 +6,15 @@ The **Credit Card Financial Dashboard** is an interactive **Power BI Business In
 
 This project consists of **two interactive dashboards**:
 
-### 📌 Credit Card Transaction Report
-###📊Dashboard Preview
+### 📌 Credit Card Customer Report
+📊Dashboard Preview
 ![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/d47a0cf495eb9678af8e0b2dedf597817843edf9/Credit%20Card%20Customer%20Report.png)
 
 Focused on transaction analysis, revenue generation, card performance, and expenditure trends.
 
-### 📌 Credit Card Customer Report
-### Dashboard Preview
-![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Transaction_report.pdf)
+### 📌 Credit Card Transaction Report
+ 📊Dashboard Preview
+![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/3476042130391b031caadc216f43ce9fa536ab18/credit_card_Transaction_report.png)
 
 Focused on customer demographics, income analysis, customer satisfaction, and behavioral insights.
 
