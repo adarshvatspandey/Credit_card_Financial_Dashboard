@@ -8,13 +8,13 @@ This project consists of **two interactive dashboards**:
 
 ### 📌 Credit Card Transaction Report
 ###📊Dashboard Preview
-![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Customer_report.pdfhttps://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Customer_report.pdf
+![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Customer_report.pdfhttps://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Customer_report.pdf)
 
 Focused on transaction analysis, revenue generation, card performance, and expenditure trends.
 
 ### 📌 Credit Card Customer Report
 ### Dashboard Preview
-![image alt]https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Transaction_report.pdf
+![image alt](https://github.com/adarshvatspandey/Credit_card_Financial_Dashboard/blob/7d0b0a90caf7a70c09dc1c4aa1ba72d57b6efee5/credit_card_Transaction_report.pdf)
 
 Focused on customer demographics, income analysis, customer satisfaction, and behavioral insights.
 
